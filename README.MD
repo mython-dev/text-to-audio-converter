@@ -22,8 +22,7 @@ python3 bot.py
 
 ### Как работает этот бот 🤖
 
-
-<img src="https://github.com/mython-dev/text-to-audio-converter/blob/main/screenshots/bot.jpeg" width="400" height="600">
+<img src="https://github.com/mython-dev/text-to-audio-converter/blob/main/screenshots/bot.jpeg" width="500" height="500">
 
 
 ##### 🌐 Социальные сети:
